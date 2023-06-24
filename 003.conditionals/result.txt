@@ -1,0 +1,2 @@
+[3J[H[2JEnter a number between 1 and 3:
+You didn't follow the directions!!
